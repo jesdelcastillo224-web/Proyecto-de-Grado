@@ -1,1 +1,51 @@
-# Proyecto-de-Grado
+[index.html](https://github.com/user-attachments/files/27611614/index.html)
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Proyecto de Grado</title>
+
+    <style>
+        body{
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 80px;
+            background-color: #f4f4f4;
+        }
+
+        h1{
+            color: #333;
+        }
+
+        a{
+            display: inline-block;
+            margin: 20px;
+            padding: 15px 25px;
+            background-color: #0077cc;
+            color: white;
+            text-decoration: none;
+            border-radius: 10px;
+            font-size: 18px;
+        }
+
+        a:hover{
+            background-color: #005fa3;
+        }
+    </style>
+</head>
+
+<body>
+
+    <h1>Proyecto de Grado</h1>
+
+    <a href="Planeacion.pdf" target="_blank">
+        Ver Documento
+    </a>
+
+    <a href="Practica.pdf" target="_blank">
+        Ver Presentación
+    </a>
+
+</body>
+</html>
